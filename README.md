@@ -16,12 +16,16 @@
 
 1. `git clone _githublänk_` klonar repot
 
-### Hur man uppdaterar projekt
+### hur man hämtar dom senaste ändringarna
 
 1. `git pull` hämtar alla ändringar
 
-##### lägg till existerande projekt
+### hur man uppdaterar ett befintligt projekt
 
 2. `git add .` punkten lägger till allt i mappen
 3. `git commit -m "mitt meddelande"` uppdaterings meddelande
 4. `git push` uppdaterar github repot
+
+### hur man tar bort lokal git
+
+1. `rm -rf .git` tar bort sync från git & github
