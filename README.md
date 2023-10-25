@@ -17,7 +17,6 @@
 1. `git clone _githublänk_` klonar repot
 
 ### hur man hämtar branch innerhåll
-1. `git branch`
 1. `git checkout`
 
 ### hur man hämtar dom senaste ändringarna
